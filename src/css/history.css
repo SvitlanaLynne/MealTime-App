@@ -1,0 +1,32 @@
+#historyContainer {
+
+    width: 90%;
+    height: 55%;
+
+    margin-right: auto;
+    margin-left: auto;
+
+    overflow-y: scroll;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#historyContainer::-webkit-scrollbar {
+    display: none;
+}
+
+.weekday {
+
+    width:100%;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    text-align: center;
+
+    background-color: var(--lightlightgrey);
+
+    color: var(--contrastgreen);
+    font-size: var(--darkgrey);
+}
