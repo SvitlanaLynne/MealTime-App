@@ -1,7 +1,9 @@
 # MealTime-App
-Part of a web application to conveniently make notes of time when a child was fed (may also be used for pets and plants).
+Web application which allows not to keep in memory last time  when an infant, pet or a plant was fed/watered.
+It tracks the history and allows make notes almost instantely and in a convinient way.
+Only a part of the application is demonstrated here.
 
-Developed with React, JavaScript, Html and CSS
+Developed with React (useState and useEffect hooks), JavaScript (fetching), Json-server (database), Html and CSS (with a friendly-looking colorful design).
 
 
 Functionality:
